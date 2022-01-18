@@ -1,6 +1,10 @@
-This is where I'm housing all of my code for my untitled space shooter game.
+Untitled Space Shooter,
+v0.0.1
+
+I recently dug through my old Unity projects and found this, and figured maybe I can build upon it more than what I was taught in the course.
+
+This is where I'm housing all of my code for my untitled space shooter game. You can play it here:
+https://play.unity.com/mg/other/untitled-space-shooter-v0-0-1
 
 This project first came be after watching a Udemy tutorial a couple of years ago on Udemy, which can be accessed here:
 https://www.udemy.com/course/the-ultimate-guide-to-game-development-with-unity/
-
-I recently dug through my old Unity projects and found this, and figured maybe I can build upon it more than what I was taught in the course.
